@@ -3,14 +3,13 @@ import tqdm
 import moviepy.editor as mp
 import torch
 from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
-from config import api_key
+from config import api_key, ffmpeg_path
 from openai import OpenAI
 
 client = OpenAI(api_key=api_key)
 
 # Assuming your current directory setup and file paths are correct
 current_directory = os.getcwd()
-ffmpeg_path = current_directory + "/ffmpeg/bin"
 
 # File paths for various resources
 attachments_intro_path = os.path.join(current_directory, "knowledge", "bartholomew_attachments_definitions.txt")
