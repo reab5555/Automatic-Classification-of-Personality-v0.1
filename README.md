@@ -10,18 +10,23 @@ The purpose of this work is the development of an automatic tool for measuring a
 Language models like GPT are good at processing, classifying, and creating text similar to a human figure, and demonstrate an impressive ability to understand and produce a coherent text that fits the context. The model is based on very large amounts of text data, which helps it to generate an appropriate response or output and to understand the broad context of the textual input entered or defined. GPT also able to receive text as input attached with a classification question and classify the text into a certain category from among the total categories offered to it and evaluate the level of compatibility against each category. Therefore, this language model can be used for our purpose.
 Classifying the text into one of the four attachment styles for example is a processwhich mainly includes the use of the GPT language model. To begin the classification process, the model receives the transcribed text from the episode or series. The text is actually the dialogues that take place between the characters in the serieswhere each sentence in the text belongs to a certain character and is marked as such in advance. Along with the dialogue, the model also receive  Bartholomew's definitions of the four attachment  styles as an input for example.
 After defining the input it reads the dialogues, paying close attention to what each character says, to the emotional context and the style of attachments that they express - all this based on the defined article.
+
+## Validation:
 The model based on its understanding of the dialogues and  the attachment styles determines how well each attachment style fits the way each character speaks. It does this by calculating a probability score that ranges from 0 to 1 for each of the four attachment styles. A score of 1 means that the character's dialogues or text fully matches a certainat attachment  style, while a score of 0 means that there is no match at all. All this he analyzes each segment separately andindependently (The number of segments is predefined) – In the end, each character is assigned a specific attachment style based on their dialogues. This output (fetched to a data file) can then be visualized on a graph, showing the change in styles during the episode or series. 
 We would also like to validate the model to check that it works as expected. In this case we check if the model can correctly classify sentences into the correct  attachmentstyles  we use sentences or items from questionnaires (The ASQ and the RSQ for example). In total we have 68 sentences or items, each of which corresponds to one of the four attachment styles. Then we ask the model to classify these sentences or items. The model reads each sentence or item and indicates which attachment style itbelieves the sentence is best suited to . Now we will compare the classifications of the model with the actual classifications known from the questionnaire. We do this using the Confusion Matrix which is a table that helps us understand and evaluatethe performance of the classification model. If the classification capabilities of the model are good, it must classify most (or all) of the sentences or items correctly. In  our case  itcorrectly classified all 68 sentences (100%). 
 
 <p align="left">
-  <img src="assets/itemscorr.png" alt="Alt text for image1" width="450"/>
+  <img src="assets/itemscorr.png" alt="Alt text for image1" width="300"/>
+</p>
+
+
+
+## Main GUI and Options:
+<p align="left">
+  <img src="assets/GUI.png" alt="Alt text for image1" width="250"/>
 </p>
 
 It is possible to analyze different types of inputs. The personality patterns analysis can be performed in three ways: one option is an analysis of scenes and dialogues of multiple speakers, a second option is analyzing media contents concentrated in a folder, and a third option is of analyzing a single video file. 
-
-<p align="left">
-  <img src="assets/GUI.png" alt="Alt text for image1" width="200"/>
-</p>
 
 <p align="left">
   <img src="assets/Slide1.PNG" alt="Alt text for image1" width="700"/>
