@@ -15,6 +15,9 @@ We would also like to validate the model to check that it works as expected. In 
 
 It is possible to analyze different types of inputs. The personality patterns analysis can be performed in three ways: one option is an analysis of scenes and dialogues of multiple speakers, a second option is analyzing media contents concentrated in a folder, and a third option is of analyzing a single video file. 
 
+<p align="center">
+  <img src="assets/srt.png" alt="Alt text for image1" width="35"/>
+</p>
 Dialogue File
 1. We start with a video file or a movie from which we want to extract dialogues. Through a transcription process, we convert the auditory speech of the characters into text. This transcribed dialogue will serve as the primary input for our analysis.
 2. Then we insert the transcribed dialogue into the GPT model, alongside Bartholomew's definitions of attachment styles from the article - Attachment styles among young adults: A test of a four-category model (1991).
