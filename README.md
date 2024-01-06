@@ -20,16 +20,16 @@ We would also like to validate the model to check that it works as expected. In 
 It is possible to analyze different types of inputs. The personality patterns analysis can be performed in three ways: one option is an analysis of scenes and dialogues of multiple speakers, a second option is analyzing media contents concentrated in a folder, and a third option is of analyzing a single video file. 
 
 <p align="left">
-  <img src="assets/GUI.png" alt="Alt text for image1" width="300"/>
+  <img src="assets/GUI.png" alt="Alt text for image1" width="200"/>
 </p>
 
 <p align="left">
-  <img src="assets/Slide1.PNG" alt="Alt text for image1" width="450"/>
+  <img src="assets/Slide1.PNG" alt="Alt text for image1" width="700"/>
 </p>
 
 
 <p align="left">
-  <img src="assets/Slide2.PNG" alt="Alt text for image1" width="450"/>
+  <img src="assets/Slide2.PNG" alt="Alt text for image1" width="700"/>
 </p>
 
 ## Dialogue File:
@@ -46,14 +46,19 @@ Results: Scenes From A Marriage (Attachment Styles)
 After receiving a data file of the results for the series, we would like to make a comparison between time points or dialogue segments in the series between the main characters. We can also see this graphically, by calculating correlations between the speakers and their attachment style at time points in the film. Correlations (Pearson or Spearman) were calculated between all attachment styles separately for character number 1, and all other attachment styles of character number 2 at all time points in the series. For example, we consider a correlation between the probabilistic values of anxious attachment for character number 1, and the probabilistic values of avoidant attachment for character number 2. In other words, we would like to check whether as the probability value in the series of anxious attachment for character number 1 increases, the probability of avoidant attachment for character Number 2 also increases.
 Having run the algorithm on the whole series with 5 episodes, we now want to examine the results. we can see the graphs of each character separately in the attached image. The top graph belongs to Jonathan, while the bottom graph belongs to Mira. This graph shows a distribution of about 25 segments. The timecodes can be seen on the X-axis, with each segment of dialogue corresponding to a timecode. In each timecode there are probabilistic values of the call styles on the Y-axis. The highest values at a time point are highlighted with a thicker line. we can see that each color corresponds to an attachment style. The red markings describe the overlap in time points between the two characters and their attachment styles. It can be seen that when Jonathan expresses an avoidant attachment style, Mira expresses an anxious attachment style (green and orange colors). we can also see a response of an anxious attachment style on Jonathan's part, when Mira expresses a fearful-avoidant attachment style.
 
+A dataframe might be structured as in the following image:
 <p align="left">
-  <img src="assets/graph.png" alt="Alt text for image1" width="450"/>
+  <img src="assets/df.png" alt="Alt text for image1" width="700"/>
+</p>
+
+<p align="left">
+  <img src="assets/graph.png" alt="Alt text for image1" width="700"/>
 </p>
 
 In the next image we can see a correlation table for the main characters in the movie Jonathan and Mira. It can be seen that there is a significant moderate correlation (p-value<0.001, r=0.41) between time points characterized by anxious attachment on the part of Jonathan and time points characterized by avoidant attachment on the part of Mira. It can also be seen that there is a significant medium-weak correlation (p-value<0.001 r=0.32) between time points characterized by avoidant attachment on the part of Jonathan and time points characterized by anxious attachment on the part of Mira.
 
 <p align="left">
-  <img src="assets/corr.png" alt="Alt text for image1" width="450"/>
+  <img src="assets/corr.png" alt="Alt text for image1" width="700"/>
 </p>
 
 ## Media Folder:
