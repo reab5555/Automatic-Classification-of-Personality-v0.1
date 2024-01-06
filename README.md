@@ -16,7 +16,7 @@ The model based on its understanding of the dialogues and  the attachment styles
 We would also like to validate the model to check that it works as expected. In this case we check if the model can correctly classify sentences into the correct  attachmentstyles  we use sentences or items from questionnaires (The ASQ and the RSQ for example). In total we have 68 sentences or items, each of which corresponds to one of the four attachment styles. Then we ask the model to classify these sentences or items. The model reads each sentence or item and indicates which attachment style itbelieves the sentence is best suited to . Now we will compare the classifications of the model with the actual classifications known from the questionnaire. We do this using the Confusion Matrix which is a table that helps us understand and evaluatethe performance of the classification model. If the classification capabilities of the model are good, it must classify most (or all) of the sentences or items correctly. In  our case  itcorrectly classified all 68 sentences (100%). 
 
 <p align="left">
-  <img src="assets/itemscorr.png" alt="Alt text for image1" width="300"/>
+  <img src="assets/itemscorr.png" alt="Alt text for image1" width="400"/>
 </p>
 
 
