@@ -11,7 +11,7 @@ Language models like GPT are good at processing, classifying, and creating text 
 Classifying the text into one of the four attachment styles for example is a processwhich mainly includes the use of the GPT language model. To begin the classification process, the model receives the transcribed text from the episode or series. The text is actually the dialogues that take place between the characters in the serieswhere each sentence in the text belongs to a certain character and is marked as such in advance. Along with the dialogue, the model also receive  Bartholomew's definitions of the four attachment  styles as an input for example.
 After defining the input it reads the dialogues, paying close attention to what each character says, to the emotional context and the style of attachments that they express - all this based on the defined article.
 
-## Validation:
+### Validation:
 The model based on its understanding of the dialogues and  the attachment styles determines how well each attachment style fits the way each character speaks. It does this by calculating a probability score that ranges from 0 to 1 for each of the four attachment styles. A score of 1 means that the character's dialogues or text fully matches a certainat attachment  style, while a score of 0 means that there is no match at all. All this he analyzes each segment separately andindependently (The number of segments is predefined) – In the end, each character is assigned a specific attachment style based on their dialogues. This output (fetched to a data file) can then be visualized on a graph, showing the change in styles during the episode or series. 
 We would also like to validate the model to check that it works as expected. In this case we check if the model can correctly classify sentences into the correct  attachmentstyles  we use sentences or items from questionnaires (The ASQ and the RSQ for example). In total we have 68 sentences or items, each of which corresponds to one of the four attachment styles. Then we ask the model to classify these sentences or items. The model reads each sentence or item and indicates which attachment style itbelieves the sentence is best suited to . Now we will compare the classifications of the model with the actual classifications known from the questionnaire. We do this using the Confusion Matrix which is a table that helps us understand and evaluatethe performance of the classification model. If the classification capabilities of the model are good, it must classify most (or all) of the sentences or items correctly. In  our case  itcorrectly classified all 68 sentences (100%). 
 
@@ -37,7 +37,7 @@ It is possible to analyze different types of inputs. The personality patterns an
   <img src="assets/Slide2.PNG" alt="Alt text for image1" width="700"/>
 </p>
 
-## Dialogue File:
+### Dialogue File:
 1. We start with a video file or a movie from which we want to extract dialogues. Through a transcription process, we convert the auditory speech of the characters into text. This transcribed dialogue will serve as the primary input for our analysis.
 2. Then we insert the transcribed dialogue into the GPT model, alongside Bartholomew's definitions of attachment styles from the article - Attachment styles among young adults: A test of a four-category model (1991).
 3. The model calculates the probability of each piece or segment of dialogue or text for each of the four  attachment styles. The number of segments is predefined (less segments = analysis of more text per segment).
@@ -58,7 +58,7 @@ In the next image we can see a correlation table for the main characters in the 
   <img src="assets/corr.png" alt="Alt text for image1" width="700"/>
 </p>
 
-## Media Folder:
+### Media Folder:
 Algorithms and other techniques are today able to extract a database of images or videos from specific profiles from social networks. If we have a folder with a large number of photos or videos (or both) of the same person, we can analyze all the images or videos in which he or she appears. Since this analysis is limited to visual analysis only, we use AI to extract visual features such as what the person looks like, what actions he does, what objects he interacts with, where he is, what clothes he wears, including their colors, and what emotions he expresses. After extracting these dimensions or features, we can analyze what kind of features are repeated in the images or videos, and as a result - try and extract personality patterns. All this as a way of relying on the fact that a person chose to be photographed in a certain way, to do a certain thing, and was photographed in a specific place, and to wear a certain style of clothing - All this can hint about his personality, that is, attachment styles, personality patterns, and big five traits. For example, a non-conformist combination of colors that stand out to the eye, including repeated photography at parties when the person is always surrounded by people can indicate an extroverted person who is open to experiences. It is important to emphasize that the algorithm calculates its results only based on the existing database available to us, when if it is limited - the results will not be reliable or relevant. Of course, the results are not absolute, and that it must be remembered that the person chooses in which situations to be photographed, or what to present to the public. It is assumed that these certain choices indicate or hint at his or her personality (for example, to be photographed in a beach instead at home, or with many friends instead of alone, and to wear black clothes instead of white). 
 
 How the algorithm works:
@@ -69,7 +69,7 @@ Using AI to extract descriptions (in a csv file format) for each image or video 
 3. Analyzing the descriptions:
 Getting results using AI with tailored knowledge for the text with the descriptions of all images and videos from the selected folder.
 
-## Video File:
+### Video File:
 If we want to analyze a single video file, when only one person appears and speaks in it, we will select this option. For example, when a person is interviewed and answers questions in a specific video clip. This algorithm is less "smart" compared to the one that analyzes scenes, in that it does not know how to separate speakers. In fact, it sees only one speaker before its eyes with one concentrated transcription. Therefore, it is not intended for analyzing videos that clearly contain more than one speaker. The algorithm relies on what the speaker in the video says, and extracts the results of his or her personality from a transcript it extracts from the audio of the video file. To make sure that only one speaker is actually heard in the video segment, it is recommended to edit it and remove speakers that are not relevant, and highlight only the speaker we want to analyze.
 
 How the algorithm works:
