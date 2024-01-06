@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Psi2.png" alt="Alt text for image1" width="300"/>
+  <img src="assets/Psi2.png" alt="Alt text for image1" width="100"/>
 </p>
  
 # Automatic Classification of Personality
