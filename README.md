@@ -62,8 +62,8 @@ Getting results using AI with tailored knowledge by using the transcription of t
 - It is recommendod to use python <3.12 for optimal running, since torch and transformers packages does not currently support python 3.12. pytorch is used for transribng audio to text in the single video analysis.
 
 ```bash
-git clone https://your-repository-link
-cd your-project-name
+git clone https://github.com/reab5555/Automatic-Classification-of-Personality.git
+cd Automatic-Classification-of-Personality
 pip install -r requirements.txt
 
 
