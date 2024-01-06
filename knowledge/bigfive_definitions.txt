@@ -1,0 +1,11 @@
+The Big Five five-factor personality traits are as follows:
+
+- Extraversion (talktive, assertive, energetic, outgoing, gregariousness, sociable, excitement-seeking, adventurous, enthusiastic, outgoing, show-off, spunky, noisy, bossy), - the opposite is Introversion (solitary, reserved, quiet, withdrawn).
+
+- Agreeableness (good-natured, cooperative, trustful, forgiving, straightforward, not demanding, altruitstic, not stubborn, modest, tender-minded, sympathetic, kind, appreciative, affectionate, soft-hearted, generous, helpful, pleasant, friendly, cooperative, gentle, unselfish, praising), the opposite is Antagonism (critical, rational, fault-finding, unfriendly, quarrelsome, hard-hearted, unkind, cruel).
+
+- Conscientiousness (orderly, responsible, efficient, organized, competence, efficient, dutiful, not careless, achievement striving, self-discipline, not lazy, delberative, not impulsive, organized, thorough, planful, reliable, conscientious, precise, practical, deliberate, painstaking), the opposite is lack of direction (extravagant, careless, disorderly, frivolous, irresponsible, slipshop, forgetful).
+
+- Neuroticism (stressed, anxious, neurotic, easily upset, sensitive, nervous, irritable, not contented, shy, impulsive, not self-confident, tense, worrying, moody, fearful, high-strung, self-pitying, temperamental, unstable, self-punishing, despondent), the opposite is emotional stability (calm, not neurotic, not easily upset, resilient, confident, stable, contented).
+
+- Openness or Openness to experience (intellectual, imaginative, independant-minded, inventive, curious, artistic, wide interests, original, insightful, sophisticated, inventive, sharp-witted, ingenious, witty), the opposite is closedness to experience (cautious, narrow interests, simple, shallow).
