@@ -1,4 +1,6 @@
-![Alt text for image1](assets/Psi2.png)
+<p align="center">
+  <img src="assets/Psi2.png" alt="Alt text for image1" width="300"/>
+</p>
  
 # Automatic Classification of Personality
 The purpose of this work is the development of an automatic tool for measuring attachment styles, personality patterns and traits for forensic, intelligence gathering, marketing, and research purposes.
