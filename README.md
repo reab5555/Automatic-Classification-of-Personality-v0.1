@@ -129,7 +129,8 @@ Openness: -1
 Sentiment: -0.8   
    
 Explanation: Rodger exhibits low Extraversion, extremely low Agreeableness, moderate Conscientiousness, high Neuroticism, and low Openness. His introversion, antagonistic view towards others, adherence to specific plans, emotional instability, and closed-mindedness are evident throughout the text.   
-    
+
+          
 * Overall, it is not possible to determine with certainty whether such a person will carry out the murder spree after writing this book, but from the results it is possible to notice very high and even extreme parameters. For example, very negative sentiment, very negative attitudes towards the self and the other, very high anxiety and avoidance, high levels of antisociality, together with narcissism, very high emotionality, high level of depression, extremely low agreeableness, and also very high neuroticism as well Drastically. All of this should turn on red lights for us regarding the person and his personality that is embodied through this textual source.
 
 
