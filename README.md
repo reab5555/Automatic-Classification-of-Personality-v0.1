@@ -79,6 +79,60 @@ Transcribing the video into text using AI.
 3. Analyzing the text:
 Getting results using AI with tailored knowledge by using the transcription of the video.
 
+## The Case of Elliot Rodger
+Elliot Rodger was a 22-year-old man known for perpetrating the Isla Vista massacre near the University of California, Santa Barbara, on May 23, 2014. He killed six people and injured fourteen others before committing suicide. His actions were motivated by personal and social grievances, particularly his frustration over his perceived social and sexual rejection by women. Rodger left behind a manifesto and a series of YouTube videos detailing his thoughts and plans, which sparked widespread discussion about various social issues, including misogyny, mental health, and gun control laws.    
+
+In order to implement the system, we would like to input, for example, transcribed textual content into the algorithm. This textual content does not come from a video file, but from a book written by Eliot Roger himself about himself - a biographical book. these are the output results:    
+
+#### Attachment Styles:    
+   
+Secured: 0.1   
+Anxious-Preoccupied: 0.3    
+Dismissive-Avoidant: 0.1   
+Fearful-Avoidant: 0.5   
+Sentiment: -0.8   
+Emotionality: 9   
+Self: -10 | Others: -10   
+Anxiety: 8   
+Avoidance: 8   
+   
+Explanation: The dominant attachment style is Fearful-Avoidant, characterized by a negative view of both self and others, and a high level of anxiety and avoidance. Rodger expresses intense loneliness and a sense of rejection, coupled with a strong desire for acceptance and intimacy, yet simultaneously avoids and fears these very connections. He also demonstrates considerable anxiety about relationships and a profound avoidance of genuine intimacy.   
+   
+Sentence: "I am the true victim in all of this. I am the good guy. Humanity struck at me first by condemning me to experience so much suffering."   
+   
+#### Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy):   
+   
+Depressed: 3   
+Paranoid: 4   
+Schizoid-Schizotypal: 1   
+Antisocial-Psychopathic: 4   
+Borderline-Dysregulated: 3   
+Narcissistic: 4   
+Anxious-Avoidant: 3   
+Dependent-Victimized: 2   
+Obsessional: 1   
+Hysteric-Histrionic: 1   
+Sentiment: -0.8   
+Emotionality: 9   
+Depression: 0.9   
+   
+Explanation: Rodger's narrative shows a high match with Paranoid (4), Antisocial-Psychopathic (4), and Narcissistic (4) personality disorders. His deep mistrust, hostility towards others, and belief in widespread conspiracy against him align with Paranoid traits. His lack of empathy, manipulative and harmful behavior towards others, and grandiose sense of self-importance are indicative of Antisocial-Psychopathic and Narcissistic disorders.   
+    
+Sentence: "Humanity has never accepted me among them and now I know why. I am more than human. I am superior to them all. I am Elliot Rodger… Magnificent, glorious, supreme, eminent… Divine!"    
+   
+#### Big Five Personality Traits:   
+   
+Extraversion: -8   
+Agreeableness: -10   
+Conscientiousness: 2   
+Neuroticism: 10   
+Openness: -1   
+Sentiment: -0.8   
+   
+Explanation: Rodger exhibits low Extraversion, extremely low Agreeableness, moderate Conscientiousness, high Neuroticism, and low Openness. His introversion, antagonistic view towards others, adherence to specific plans, emotional instability, and closed-mindedness are evident throughout the text.   
+
+
+
 
 
 ## Requirements:
