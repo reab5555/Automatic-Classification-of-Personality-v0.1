@@ -85,7 +85,6 @@ Elliot Rodger was a 22-year-old man known for perpetrating the Isla Vista massac
 In order to implement the system, we would like to input, for example, transcribed textual content into the algorithm. This textual content does not come from a video file, but from a book written by Eliot Roger himself about himself - a biographical book. these are the output results:    
 
 #### Attachment Styles:    
-   
 Secured: 0.1   
 Anxious-Preoccupied: 0.3    
 Dismissive-Avoidant: 0.1   
@@ -101,7 +100,6 @@ Explanation: The dominant attachment style is Fearful-Avoidant, characterized by
 Sentence: "I am the true victim in all of this. I am the good guy. Humanity struck at me first by condemning me to experience so much suffering."   
    
 #### Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy):   
-   
 Depressed: 3   
 Paranoid: 4   
 Schizoid-Schizotypal: 1   
@@ -121,7 +119,6 @@ Explanation: Rodger's narrative shows a high match with Paranoid (4), Antisocial
 Sentence: "Humanity has never accepted me among them and now I know why. I am more than human. I am superior to them all. I am Elliot Rodger… Magnificent, glorious, supreme, eminent… Divine!"    
    
 #### Big Five Personality Traits:   
-   
 Extraversion: -8   
 Agreeableness: -10   
 Conscientiousness: 2   
