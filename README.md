@@ -139,7 +139,8 @@ Explanation: Rodger exhibits low Extraversion, extremely low Agreeableness, mode
   <img src="assets/lopez.jpg" alt="Alt text for image1" width="200"/>
 </p>
 Ricardo Lopez, known as the "Björk stalker," was an Uruguayan-American known for his extreme obsession with Icelandic singer Björk. His obsession culminated in 1996 when he constructed a letter bomb to harm her. Before committing suicide on the day he mailed the device, Lopez filmed himself, leaving behind a video diary that detailed his disturbed mindset and plans. His case is often cited in discussions about the dangers of celebrity stalking and mental health issues.    
-         
+          
+          
 We collected about 20 videos of Lopez filming himself and talking to the camera ("The Video Diary of Ricardo Lopez"). The duration of each video is about an hour, a total of about 20 hours of raw footage. We transcribed the videos and entered the transcript into the algorithm. The transcription from "The Video Diary of Ricardo Lopez" is extensive and covers various topics, including his plans, thoughts, and intentions. This provides a deep insight into his mental state and personality.
      
 These are the results:    
