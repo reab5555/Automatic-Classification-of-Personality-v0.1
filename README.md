@@ -142,7 +142,7 @@ Ricardo Lopez, known as the "Björk stalker," was an Uruguayan-American known fo
       
 We collected about 20 videos of Lopez filming himself and talking to the camera ("The Video Diary of Ricardo Lopez"). The duration of each video is about an hour, a total of about 20 hours of raw footage. We transcribed the videos and entered the transcript into the algorithm. The transcription from "The Video Diary of Ricardo Lopez" is extensive and covers various topics, including his plans, thoughts, and intentions. This provides a deep insight into his mental state and personality.
      
-These are the results obtained:    
+These are the results:    
 #### Attachment Styles:    
 Secured: 0.05   
 Anxious-Preoccupied: 0.15   
