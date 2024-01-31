@@ -152,6 +152,7 @@ Emotionality: 8
 Self: -7 | Others: -8   
 Anxiety: 6   
 Avoidance: 5   
+     
 Explanation: The text reveals a high level of anxiety and avoidance, particularly in the context of social relationships and self-perception. The predominant fearful-avoidant attachment style is evident in his expressed discomfort with closeness, yet a desire for intimacy, accompanied by mistrust and fear of rejection.   
 Sentence: "I am uncomfortable getting close to others. I want emotionally close relationships, but I find it difficult to trust others completely, or to depend on them."   
 
@@ -169,7 +170,8 @@ Hysteric-Histrionic: 1
 Sentiment: -0.8   
 Emotionality: 8   
 Depression: 0.7   
-Explanation: The high rating for Antisocial-Psychopathic is due to the presence of manipulative, reckless, and harmful behaviors towards others. The Borderline-Dysregulated rating reflects intense emotions and instability in self-image.   
+     
+Explanation: The high rating for Antisocial-Psychopathic is due to the presence of manipulative, reckless, and harmful behaviors towards others. The Borderline-Dysregulated rating reflects intense emotions and instability in self-image.    
 Sentence: "My main objective is to end my life. Now, as I'm going down, I'm going to screw her up."   
     
 #### Big Five Personality Traits:   
@@ -179,6 +181,7 @@ Conscientiousness: 3
 Neuroticism: 9   
 Openness: 4   
 Sentiment: -0.8   
+     
 Explanation: The negative rating in Extraversion and Agreeableness aligns with the text's antisocial and hostile tone. High Neuroticism is evident through anxiety and emotional instability, while some level of Conscientiousness and Openness is seen in the methodical planning and some intellectual engagement.   
     
 
