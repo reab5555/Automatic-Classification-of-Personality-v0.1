@@ -190,9 +190,7 @@ Explanation: The negative rating in Extraversion and Agreeableness aligns with t
 <p align="left">
   <img src="assets/kafka.jpg" alt="Alt text for image1" width="100"/>
 </p>
-Franz Kafka's letter to his father, commonly referred to as "Letter to His Father," is a lengthy and personal document in which Kafka confronts the profound impact his father, Hermann Kafka, had on his life and psyche. In the letter, Kafka accuses his father of emotionally abusing him, which he believes led to his feelings of inadequacy and insecurity. The letter details how Hermann's authoritarian and intimidating demeanor deeply affected Kafka's self-esteem, his relationships, and his writing. However, Kafka also expresses understanding of his father's behavior, considering his background and own upbringing. The letter was never actually sent to Hermann Kafka.    
-       
-Based on the text from Franz Kafka's letter to his father, the following analysis can be made regarding attachment styles, personality disorders, and Big Five personality traits:
+Franz Kafka's letter to his father, commonly referred to as "Letter to His Father," is a lengthy and personal document in which Kafka confronts the profound impact his father, Hermann Kafka, had on his life and psyche. In the letter, Kafka accuses his father of emotionally abusing him, which he believes led to his feelings of inadequacy and insecurity. The letter details how Hermann's authoritarian and intimidating demeanor deeply affected Kafka's self-esteem, his relationships, and his writing. However, Kafka also expresses understanding of his father's behavior, considering his background and own upbringing. The letter was never actually sent to Hermann Kafka. Based on the text from Franz Kafka's letter to his father, the following analysis can be made regarding attachment styles, personality disorders, and Big Five personality traits:
     
 #### Attachment Styles:    
 Secured: 0.10
