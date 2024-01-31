@@ -155,8 +155,6 @@ Avoidance: 5
      
 Explanation: The text reveals a high level of anxiety and avoidance, particularly in the context of social relationships and self-perception. The predominant fearful-avoidant attachment style is evident in his expressed discomfort with closeness, yet a desire for intimacy, accompanied by mistrust and fear of rejection.   
      
-Sentence: "I am uncomfortable getting close to others. I want emotionally close relationships, but I find it difficult to trust others completely, or to depend on them."   
-
 #### Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy):   
 Depressed: 2   
 Paranoid: 2   
@@ -173,7 +171,7 @@ Emotionality: 8
 Depression: 0.7   
      
 Explanation: The high rating for Antisocial-Psychopathic is due to the presence of manipulative, reckless, and harmful behaviors towards others. The Borderline-Dysregulated rating reflects intense emotions and instability in self-image.    
-Sentence: "My main objective is to end my life. Now, as I'm going down, I'm going to screw her up."   
+Sentence: "My main objective is to end my life. Now, as I'm going down, I'm going to screw her up. (Björk)"   
     
 #### Big Five Personality Traits:   
 Extraversion: -5   
@@ -184,6 +182,8 @@ Openness: 4
 Sentiment: -0.8   
      
 Explanation: The negative rating in Extraversion and Agreeableness aligns with the text's antisocial and hostile tone. High Neuroticism is evident through anxiety and emotional instability, while some level of Conscientiousness and Openness is seen in the methodical planning and some intellectual engagement.   
+
+#### Overall, we identify high parameters such as a very negative sentiment, a high level of emotionality, a negative attitude towards the self and others, some signs of borderline and antisocial personality, depression, and very high neuroticism. Note that obsessive personality was given a score of 1, because his obsession with the singer is not indicative of an obsessive personality in general, and that obsessive personality has clear, distinct definitions. If we also watch some of the videos and listen to what he says, it seems that his personality is unstable in terms of his attitude towards himself and others. On the one hand he calls himself a pig, on the other he flatters himself. On the one hand, he sees the singer as an "angel", who should be worshipped, and on the other hand, he shows great anger towards her at other times in a very extreme way. These extreme changes may indeed express a borderline personality to one degree or another. This is mainly as a way of the instability of his attitude towards the "self" and the intensity of the emotional dysregulation. Therefore, the algorithm correctly identifies the borderline personality here or the expression of it.
     
 
 
