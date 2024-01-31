@@ -131,8 +131,54 @@ Sentiment: -0.8
 Explanation: Rodger exhibits low Extraversion, extremely low Agreeableness, moderate Conscientiousness, high Neuroticism, and low Openness. His introversion, antagonistic view towards others, adherence to specific plans, emotional instability, and closed-mindedness are evident throughout the text.   
          
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------          
 #### Overall, it is not possible to determine with certainty whether such a person will carry out the murder spree after writing this book, but from the results it is possible to notice very high and even extreme parameters. For example, very negative sentiment, very negative attitudes towards the self and the others, very high anxiety and avoidance, high levels of antisociality, together with narcissism, very high emotionality, high level of depression, extremely low agreeableness, as well as extreme neuroticism. All of this should turn on red lights for us regarding the person and his personality that is embodied through this textual source.
+
+     
+## Ricardo Lopez "Björk stalker"
+Ricardo Lopez, , known as the "Björk stalker," was an Uruguayan-American known for his extreme obsession with Icelandic singer Björk. His obsession culminated in 1996 when he constructed a letter bomb to harm her. Before committing suicide on the day he mailed the device, Lopez filmed himself, leaving behind a video diary that detailed his disturbed mindset and plans. His case is often cited in discussions about the dangers of celebrity stalking and mental health issues.   
+
+We collected about 20 videos of Lopez filming himself and talking to the camera ("The Video Diary of Ricardo Lopez"). The duration of each video is about an hour, a total of about 20 hours of raw footage. We transcribed the videos and entered the transcript into the algorithm. The transcription from "The Video Diary of Ricardo Lopez" is extensive and covers various topics, including his plans, thoughts, and intentions. This provides a deep insight into his mental state and personality.
+     
+These are the results obtained:    
+#### Attachment Styles:    
+Secured: 0.05
+Anxious-Preoccupied: 0.15
+Dismissive-Avoidant: 0.15
+Fearful-Avoidant: 0.65
+Sentiment: -0.8
+Emotionality: 8
+Self: -7 | Others: -8
+Anxiety: 6
+Avoidance: 5
+Explanation: The text reveals a high level of anxiety and avoidance, particularly in the context of social relationships and self-perception. The predominant fearful-avoidant attachment style is evident in his expressed discomfort with closeness, yet a desire for intimacy, accompanied by mistrust and fear of rejection.
+Sentence: "I am uncomfortable getting close to others. I want emotionally close relationships, but I find it difficult to trust others completely, or to depend on them."
+
+#### Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy):
+Depressed: 2
+Paranoid: 2
+Schizoid-Schizotypal: 2
+Antisocial-Psychopathic: 3
+Borderline-Dysregulated: 3
+Narcissistic: 2
+Anxious-Avoidant: 3
+Dependent-Victimized: 2
+Obsessional: 1
+Hysteric-Histrionic: 1
+Sentiment: -0.8
+Emotionality: 8
+Depression: 0.7
+Explanation: The high rating for Antisocial-Psychopathic is due to the presence of manipulative, reckless, and harmful behaviors towards others. The Borderline-Dysregulated rating reflects intense emotions and instability in self-image.
+Sentence: "My main objective is to end my life. Now, as I'm going down, I'm going to screw her up."
+     
+#### Big Five Personality Traits:   
+Extraversion: -5
+Agreeableness: -8
+Conscientiousness: 3
+Neuroticism: 9
+Openness: 4
+Sentiment: -0.8
+Explanation: The negative rating in Extraversion and Agreeableness aligns with the text's antisocial and hostile tone. High Neuroticism is evident through anxiety and emotional instability, while some level of Conscientiousness and Openness is seen in the methodical planning and some intellectual engagement.
+    
 
 
 
