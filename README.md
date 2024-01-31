@@ -183,8 +183,62 @@ Sentiment: -0.8
      
 Explanation: The negative rating in Extraversion and Agreeableness aligns with the text's antisocial and hostile tone. High Neuroticism is evident through anxiety and emotional instability, while some level of Conscientiousness and Openness is seen in the methodical planning and some intellectual engagement.   
 
-#### Overall, we identify high parameters such as a very negative sentiment, a high level of emotionality, a negative attitude towards the self and others, some signs of borderline and antisocial personality, depression, and very high neuroticism. Note that obsessive personality was given a score of 1, because his obsession with the singer is not indicative of an obsessive personality in general, and that obsessive personality has clear, distinct definitions. If we also watch some of the videos and listen to what he says, it seems that his personality is unstable in terms of his attitude towards himself and others. On the one hand he calls himself a pig, on the other he flatters himself. On the one hand, he sees the singer as an "angel", who should be worshipped, and on the other hand, he shows great anger towards her at other times in a very extreme way. These extreme changes may indeed express a borderline personality to one degree or another. This is mainly as a way of the instability of his attitude towards the "self" and the intensity of the emotional dysregulation. Therefore, the algorithm correctly identifies the borderline personality here or the expression of it.
+#### Overall, we identify high parameters such as a very negative sentiment, a high level of emotionality, a negative attitude towards the self and others, some signs of borderline and antisocial personality, depression, and very high neuroticism. Note that obsessive personality was given a score of 1, because his obsession with the singer is not indicative of an obsessive personality in general, and that obsessive personality has clear, distinct definitions. If we also watch some of the videos and listen to what he says, it seems that his personality is unstable in terms of his attitude towards himself and others. On the one hand he calls himself a pig, on the other he flatters himself. On the one hand, he sees the singer as an "angel", who should be worshipped, and on the other hand, he shows great anger towards her at other times in a very extreme way. These extreme changes may indeed express a borderline personality to one degree or another. This is mainly as a way of the instability of his attitude towards the "self" and the intensity of the emotional dysregulation. Therefore, the algorithm correctly identifies the borderline personality here or the expression of it.   
+
+
+## Franz Kafka's letter to his father
+<p align="left">
+  <img src="assets/kafka" alt="Alt text for image1" width="200"/>
+</p>
+Ricardo Lopez, known as the "Björk stalker," was an Uruguayan-American known for his extreme obsession with Icelandic singer Björk. His obsession culminated in 1996 when he constructed a letter bomb to harm her. Before committing suicide on the day he mailed the device, Lopez filmed himself, leaving behind a video diary that detailed his disturbed mindset and plans. His case is often cited in discussions about the dangers of celebrity stalking and mental health issues. We collected about 20 videos of Lopez filming himself and talking to the camera ("The Video Diary of Ricardo Lopez"). The duration of each video is about an hour, a total of about 20 hours of raw footage. We transcribed the videos and entered the transcript into the algorithm. The transcription from "The Video Diary of Ricardo Lopez" is extensive and covers various topics, including his plans, thoughts, and intentions. This provides a deep insight into his mental state and personality.    
+       
+Based on the text from Franz Kafka's letter to his father, the following analysis can be made regarding attachment styles, personality disorders, and Big Five personality traits:
     
+#### Attachment Styles:    
+Secured: 0.10
+Anxious-Preoccupied: 0.45
+Dismissive-Avoidant: 0.10
+Fearful-Avoidant: 0.35
+Sentiment: -0.6
+Emotionality: 8
+Self: -7 | Others: -5
+Anxiety: 7
+Avoidance: 3    
+    
+Explanation: The text reflects a high level of anxiety and moderate avoidance, which is indicative of an Anxious-Preoccupied attachment style. Kafka expresses a longing for acceptance and affection, coupled with fear and anxiety about his relationship with his father.   
+    
+Sentence: "I was a timid child... I could not control myself, could not keep the words back, I was sorry even while I was saying them." 
+     
+Explanation: The text reveals a high level of anxiety and avoidance, particularly in the context of social relationships and self-perception. The predominant fearful-avoidant attachment style is evident in his expressed discomfort with closeness, yet a desire for intimacy, accompanied by mistrust and fear of rejection.   
+
+#### Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy):    
+Depressed: 3   
+Paranoid: 1   
+Schizoid-Schizotypal: 1   
+Antisocial-Psychopathic: 0   
+Borderline-Dysregulated: 2   
+Narcissistic: 1   
+Anxious-Avoidant: 3    
+Dependent-Victimized: 3   
+Obsessional: 1   
+Hysteric-Histrionic: 1   
+Sentiment: -0.6  
+Emotionality: 8   
+Depression: 0.7  
+     
+Explanation: Kafka's letter indicates high levels of depression, anxious-avoidant, and dependent-victimized traits. His intense emotional expression, sense of helplessness, and longing for a better relationship with his father highlight these aspects.      
+     
+Sentence: "What I would have needed was a little encouragement, a little friendliness, a little keeping open of my road, instead of which you blocked it for me."     
+      
+#### Big Five Personality Traits:    
+Extraversion: -8    
+Agreeableness: -5   
+Conscientiousness: 4   
+Neuroticism: 8   
+Openness: 6   
+Sentiment: -0.6   
+    
+Explanation: Kafka shows high introversion, moderate antagonism, conscientiousness, very high neuroticism, and above-average openness. His introspective and analytical nature, combined with emotional instability and creativity, is evident in the letter.   
 
 
 
