@@ -205,10 +205,8 @@ Avoidance: 3
     
 Explanation: The text reflects a high level of anxiety and moderate avoidance, which is indicative of an Anxious-Preoccupied attachment style. Kafka expresses a longing for acceptance and affection, coupled with fear and anxiety about his relationship with his father.   
     
-Sentence: "I was a timid child... I could not control myself, could not keep the words back, I was sorry even while I was saying them." 
-     
-Explanation: The text reveals a high level of anxiety and avoidance, particularly in the context of social relationships and self-perception. The predominant fearful-avoidant attachment style is evident in his expressed discomfort with closeness, yet a desire for intimacy, accompanied by mistrust and fear of rejection.   
-
+Sentence: "I was a timid child... I could not control myself, could not keep the words back, I was sorry even while I was saying them."   
+   
 #### Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy):    
 Depressed: 3   
 Paranoid: 1   
