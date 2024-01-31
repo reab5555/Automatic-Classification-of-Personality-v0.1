@@ -154,6 +154,7 @@ Anxiety: 6
 Avoidance: 5   
      
 Explanation: The text reveals a high level of anxiety and avoidance, particularly in the context of social relationships and self-perception. The predominant fearful-avoidant attachment style is evident in his expressed discomfort with closeness, yet a desire for intimacy, accompanied by mistrust and fear of rejection.   
+     
 Sentence: "I am uncomfortable getting close to others. I want emotionally close relationships, but I find it difficult to trust others completely, or to depend on them."   
 
 #### Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy):   
