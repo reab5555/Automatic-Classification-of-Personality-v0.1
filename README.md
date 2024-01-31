@@ -193,15 +193,15 @@ Explanation: The negative rating in Extraversion and Agreeableness aligns with t
 Franz Kafka's letter to his father, commonly referred to as "Letter to His Father," is a lengthy and personal document in which Kafka confronts the profound impact his father, Hermann Kafka, had on his life and psyche. In the letter, Kafka accuses his father of emotionally abusing him, which he believes led to his feelings of inadequacy and insecurity. The letter details how Hermann's authoritarian and intimidating demeanor deeply affected Kafka's self-esteem, his relationships, and his writing. However, Kafka also expresses understanding of his father's behavior, considering his background and own upbringing. The letter was never actually sent to Hermann Kafka. Based on the text from Franz Kafka's letter to his father, the following analysis can be made regarding attachment styles, personality disorders, and Big Five personality traits:
     
 #### Attachment Styles:    
-Secured: 0.10
-Anxious-Preoccupied: 0.45
-Dismissive-Avoidant: 0.10
-Fearful-Avoidant: 0.35
-Sentiment: -0.6
-Emotionality: 8
-Self: -7 | Others: -5
-Anxiety: 7
-Avoidance: 3    
+Secured: 0.10   
+Anxious-Preoccupied: 0.45   
+Dismissive-Avoidant: 0.10    
+Fearful-Avoidant: 0.35    
+Sentiment: -0.6    
+Emotionality: 8    
+Self: -7 | Others: -5   
+Anxiety: 7   
+Avoidance: 3     
     
 Explanation: The text reflects a high level of anxiety and moderate avoidance, which is indicative of an Anxious-Preoccupied attachment style. Kafka expresses a longing for acceptance and affection, coupled with fear and anxiety about his relationship with his father.   
     
