@@ -136,7 +136,7 @@ Explanation: Rodger exhibits low Extraversion, extremely low Agreeableness, mode
      
 ## Ricardo Lopez "Björk stalker"
 <p align="left">
-  <img src="assets/lopez.jpg" alt="Alt text for image1" width="100"/>
+  <img src="assets/lopez.jpg" alt="Alt text for image1" width="200"/>
 </p>
 Ricardo Lopez, , known as the "Björk stalker," was an Uruguayan-American known for his extreme obsession with Icelandic singer Björk. His obsession culminated in 1996 when he constructed a letter bomb to harm her. Before committing suicide on the day he mailed the device, Lopez filmed himself, leaving behind a video diary that detailed his disturbed mindset and plans. His case is often cited in discussions about the dangers of celebrity stalking and mental health issues.   
 
