@@ -27,7 +27,7 @@ We did the same to validate the Big Five traits. For this purpose, we gave the m
 
 When it comes to validating the personality patterns according to Shedler and Westen, the matter becomes more complex. we have a total of 78 items from SWAP-200. First, the items of the three patterns Depressed-Anxious-Avoidant-Dependent-Victimized are under one category of items called Dysphoria, so they are united into one pattern, so they have items in common. Second, there are correlations between the different items and between the patterns. For example, there is a high correlation between a histrionic personality and a narcissistic personality, or between a paranoid personality and an antisocial personality. These correlations result in the simultaneous prediction of several patterns for an item. It must be remembered that personal patterns can be embodied simultaneously in the same subject, so the results must be interpreted accordingly. On the one hand, we don't want to arbitrarily impose a certain personality disorder on someone, and on the other hand, we also don't want to miss someone who have a high rating in a certain personality disorder. At this stage of development, precision is more relevant to us here because we want it to give a rating score for a certain pattern with highest confidence as possible.
 <p align="left">
-  <img src="assets/itemscorr_per.png" alt="Alt text for image1" width="400"/>
+  <img src="assets/itemscorr_per.png" alt="Alt text for image1" width="600"/>
 </p>  
      
 ## Main GUI and Options:
