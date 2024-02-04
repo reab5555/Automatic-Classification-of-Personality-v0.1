@@ -195,7 +195,7 @@ Explanation: The negative rating in Extraversion and Agreeableness aligns with t
 
 ## Franz Kafka's letter to his father
 <p align="left">
-  <img src="assets/kafka.jpg" alt="Alt text for image1" width="100"/>
+  <img src="assets/kafka.jpg" alt="Alt text for image1" width="150"/>
 </p>
 Franz Kafka's letter to his father, commonly referred to as "Letter to His Father," is a lengthy and personal document in which Kafka confronts the profound impact his father, Hermann Kafka, had on his life and psyche. In the letter, Kafka accuses his father of emotionally abusing him, which he believes led to his feelings of inadequacy and insecurity. The letter details how Hermann's authoritarian and intimidating demeanor deeply affected Kafka's self-esteem, his relationships, and his writing. However, Kafka also expresses understanding of his father's behavior, considering his background and own upbringing. The letter was never actually sent to Hermann Kafka. Based on the text from Franz Kafka's letter to his father, the following analysis can be made regarding attachment styles, personality disorders, and Big Five personality traits:
     
@@ -246,7 +246,7 @@ Explanation: Kafka shows high introversion, moderate antagonism, conscientiousne
 
 ## Yahya Sinwar
  <p align="left">
-  <img src="assets/sinwar.jpg" alt="Alt text for image1" width="150"/>
+  <img src="assets/sinwar.jpg" alt="Alt text for image1" width="200"/>
 </p>
 We extracted about 200 images of Yahya Sinwar and analyzed them. Yahya Sinwar, born in 1962 in Khan Younis, Gaza Strip, considered as the leader of Hamas in the Gaza Strip. His upbringing in a refugee camp shaped his early involvement in Palestinian nationalism and Islamism, leading to his significant role in founding Hamas's security apparatus. Known for his charismatic yet ruthless persona, he has been pivotal in Hamas operations, including orchestrating attacks against Israel and advocating for the capture of Israeli soldiers. His tenure has seen a mix of violent confrontations and brief openings towards "peaceful, popular resistance", reflecting his complex leadership style in the context of the Israeli-Palestinian conflict. Yahya Sinwar's personality is a blend of charisma, intellectual depth, and ruthlessness, elements that have significantly contributed to his leadership style and his influence within Hamas and the broader Palestinian resistance movement.    
     
@@ -296,7 +296,7 @@ Explanation: The ratings reflect a personality profile of someone who is outgoin
    
 ## Cardi B
  <p align="left">
-  <img src="assets/cardib.jpg" alt="Alt text for image1" width="150"/>
+  <img src="assets/cardib.jpg" alt="Alt text for image1" width="200"/>
 </p>
 We extracted about 300 images of the singer Cardi B and analyzed them. Cardi B, born Belcalis Marlenis Almánzar on October 11, 1992, in The Bronx, New York, is a Grammy Award-winning American rapper, songwriter, and actress known for her candidness, humor, and vivacity. Her music often incorporates her experiences, tackling themes of empowerment, wealth, and relationships, delivered with her signature flow and Bronx accent. Personality-wise, Cardi B is known for her unfiltered and straightforward demeanor, often using her platform to express her opinions on various social and political issues. Her humor and authenticity have endeared her to a wide audience beyond her music career. She's outspoken about her past as a stripper and uses her story to advocate for female empowerment and sex positivity.   
    
