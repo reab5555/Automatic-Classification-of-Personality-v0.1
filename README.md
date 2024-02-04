@@ -319,7 +319,7 @@ Avoidance: 3
    
 Explanation: Higher security reflects a baseline interest in the environment and people, suggesting a balanced and somewhat optimistic engagement, despite mild anxiety and avoidance tendencies.   
    
-## Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy)   
+### Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy)   
 Depressed: 1   
 Paranoid: 1   
 Schizoid-Schizotypal: 1   
@@ -334,7 +334,7 @@ Depression: -0.5
    
 Explanation: Moderate ratings for Hysteric-Histrionic and Narcissistic suggest a focus on appearance or superficial details, possibly reflecting a certain level of preoccupation with external validation or image.   
    
-## Big Five Personality Traits:   
+### Big Five Personality Traits:   
 Extraversion: 4   
 Agreeableness: 2   
 Conscientiousness: 3   
