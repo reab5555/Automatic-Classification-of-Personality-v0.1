@@ -244,6 +244,106 @@ Sentiment: -0.6
 Explanation: Kafka shows high introversion, moderate antagonism, conscientiousness, very high neuroticism, and above-average openness. His introspective and analytical nature, combined with emotional instability and creativity, is evident in the letter.   
 
 
+## Yahya Sinwar
+ <p align="left">
+  <img src="assets/sinwar.jpg" alt="Alt text for image1" width="100"/>
+</p>
+We extracted about 200 images of Yahya Sinwar and analyzed them. Yahya Sinwar, born in 1962 in Khan Younis, Gaza Strip, considered as the leader of Hamas in the Gaza Strip. His upbringing in a refugee camp shaped his early involvement in Palestinian nationalism and Islamism, leading to his significant role in founding Hamas's security apparatus. Known for his charismatic yet ruthless persona, he has been pivotal in Hamas operations, including orchestrating attacks against Israel and advocating for the capture of Israeli soldiers. His tenure has seen a mix of violent confrontations and brief openings towards "peaceful, popular resistance", reflecting his complex leadership style in the context of the Israeli-Palestinian conflict. Yahya Sinwar's personality is a blend of charisma, intellectual depth, and ruthlessness, elements that have significantly contributed to his leadership style and his influence within Hamas and the broader Palestinian resistance movement.    
+    
+    
+Output Results:    
+It appears that the person in the images is a middle-aged man who is often seen in formal or semi-formal attire. He frequently participates in public speaking engagements, indicating that he might be a figure of authority or influence, potentially in politics or activism. His clothing often includes suits, shirts, and sometimes traditional scarfs known as keffiyehs, which suggests that he may hold a cultural or political position, possibly in a Middle Eastern context given the presence of Arabic text in many settings. His emotional state during these events is typically serious, passionate, or focused—common for individuals engaged in matters of importance or concern. The presence of media suggests that his statements are of public interest, and the themes of the various events involve political or social matters.    
+From a psychological perspective, based on the information provided in the images, it would seem the person has a dominant personality, capable of leading and commanding attention. He tends to display confidence, assertiveness, and engagement with social issues. Meeting such a person would likely be an encounter with someone who is serious and passionate about his beliefs and causes, someone who is persuasive and can rally people around those causes. The man's profession could likely be a political leader, activist, or a figure with a significant role in societal affairs, given his recurrent participation in public speaking events, rallies, and formal gatherings.    
+    
+### Attachment Style   
+Secured: 0.2   
+Anxious-Preoccupied: 0.1   
+Dismissive-Avoidant: 0.4   
+Fearful-Avoidant: 0.3   
+Sentiment: 0.2   
+Emotionality: 6   
+Self: 7 | Others: 5   
+Anxiety: 3   
+Avoidance: 6   
+   
+Explanation: The selected probabilities reflect the man's public persona and leadership role. His likely confidence in his self-view and the strategic avoidance of intimate disclosure common to public figures suggest a Dismissive-Avoidant attachment style. He engages with the public when necessary but maintains a degree of emotional distance appropriate to his position. A significant probability is also given to the Fearful-Avoidant style due to the potentially high-pressure situations he finds himself in and the need for a wary approach to others' intentions in political or activist realms.      
+    
+### Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy):   
+Depressed: 0   
+Paranoid: 1   
+Schizoid-Schizotypal: 0   
+Antisocial-Psychopathic: 2   
+Borderline-Dysregulated: 0   
+Hysteric-Histrionic: 0   
+Narcissistic: 3   
+Anxious-Avoidant: 2   
+Dependent-Victimized: 1   
+Obsessional: 0   
+Depression: -0.5   
+   
+Explanation: The Narcissistic rating reflects the possibility that a person in such a public role with clear leadership status, influence, and frequent interactions with the press may exhibit traits aligned with grandiosity or self-importance, and possibly lack of empathy necessary for navigating political strife. However, this is a cautious speculation, as such traits can often simply reflect the persona adopted by public figures rather than a disorder. The rating for Anxious-Avoidant acknowledges the intense strain from the demands of public life and underlying anxiety that could be present.   
+   
+### Big Five Personality Traits:   
+Extraversion: 8   
+Agreeableness: 6   
+Conscientiousness: 8   
+Neuroticism: 4   
+Openness: 7   
+   
+Explanation: The ratings reflect a personality profile of someone who is outgoing and assertive (Extraversion), reasonably cooperative (Agreeableness), very organized and driven (Conscientiousness), somewhat prone to stress in high-stakes environments (Neuroticism), and open to experience in engaging with diverse crowds and situations (Openness).   
+   
+**Please note**: These assessments are based on limited data and should not be used to speculate about the true personality or psychological profile of the person depicted in the images. The suggestions made here are for illustrative purposes and do not represent a definitive personality or psychological diagnosis.   
+   
+## Cardi B
+ <p align="left">
+  <img src="assets/cardib.jpg" alt="Alt text for image1" width="100"/>
+</p>
+We extracted about 300 images of the singer Cardi B and analyzed them. Cardi B, born Belcalis Marlenis Almánzar on October 11, 1992, in The Bronx, New York, is a Grammy Award-winning American rapper, songwriter, and actress known for her candidness, humor, and vivacity. Her music often incorporates her experiences, tackling themes of empowerment, wealth, and relationships, delivered with her signature flow and Bronx accent. Personality-wise, Cardi B is known for her unfiltered and straightforward demeanor, often using her platform to express her opinions on various social and political issues. Her humor and authenticity have endeared her to a wide audience beyond her music career. She's outspoken about her past as a stripper and uses her story to advocate for female empowerment and sex positivity.   
+   
+Output Results:   
+It seems like the person is a female who has been photographed in different settings, primarily at formal events and red carpet occasions. She is often described as posing for the camera, suggesting that she has experience with media and public appearances. Her attire varies from elegant gowns to casual and glamorous outfits, indicating versatility and an interest in fashion. She is frequently seen as being confident and composed, playful or engaging in performances, which may point to her being a performer or celebrity of some sort.   
+From a psychological or psychiatric perspective, the consistent descriptions of her confidence and composure in various social settings could suggest a strong sense of self-assuredness and comfort in the public eye. Her playful interactions and posing for cameras could indicate someone who is extroverted and enjoys attention, which is often seen in personalities accustomed to or seeking the spotlight. Her varying clothing styles and colors could reflect a dynamic personality and a willingness to express herself through fashion. Her dominant emotional states of confidence, playfulness, and contentment suggest a positive self-image and a general satisfaction with her experiences, particularly in professional environments.   
+Meeting and interacting with this person could be engaging and pleasant. She likely carries herself with poise and has the ability to hold attention, which could make for entertaining and interesting conversation, especially about fashion and entertainment. With her apparent comfort in public settings, she would likely be personable and comfortable engaging with others.   
+Her profession could potentially be in the entertainment industry; possibly a singer, actress, or public figure who attends various media events and may perform live, indicated by the repeated presence of a microphone and a stage in several scenes.   
+   
+### Attachment Styles   
+Secured: 0.4   
+Anxious-Preoccupied: 0.2   
+Dismissive-Avoidant: 0.3   
+Fearful-Avoidant: 0.1   
+Sentiment: 0.1   
+Emotionality: 4   
+Self: -2 | Others: 2   
+Anxiety: 2   
+Avoidance: 3   
+   
+Explanation: Higher security reflects a baseline interest in the environment and people, suggesting a balanced and somewhat optimistic engagement, despite mild anxiety and avoidance tendencies.   
+   
+## Personality Disorders (according to Westen, Shedler, Bradley, and DeFife's taxonomy)   
+Depressed: 1   
+Paranoid: 1   
+Schizoid-Schizotypal: 1   
+Antisocial-Psychopathic: 1   
+Borderline-Dysregulated: 1   
+Hysteric-Histrionic: 2   
+Narcissistic: 2   
+Anxious-Avoidant: 2   
+Dependent-Victimized: 1   
+Obsessional: 1   
+Depression: -0.5   
+   
+Explanation: Moderate ratings for Hysteric-Histrionic and Narcissistic suggest a focus on appearance or superficial details, possibly reflecting a certain level of preoccupation with external validation or image.   
+   
+## Big Five Personality Traits:   
+Extraversion: 4   
+Agreeableness: 2   
+Conscientiousness: 3   
+Neuroticism: 2   
+Openness: 4   
+   
+Explanation: Higher openness and extraversion suggest a willingness to explore and engage with both social and physical environments, underscored by a conscientious approach, albeit with some underlying tension or nervousness.   
+   
+
 
 ## Requirements:
 - Please set in the config.py your OpenAI API key.
