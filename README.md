@@ -5,7 +5,7 @@
 # Automatic Classification of Personality
 The purpose of this work is the development of an automatic tool for measuring attachment styles, personality patterns and traits for forensic, intelligence gathering, marketing, and research purposes.
 
-Link for the article: https://drive.google.com/file/d/1hkgxsK11Fl84yzdYji070ke6UqKsaqol/view?usp=drive_link
+Access to the article: https://drive.google.com/file/d/1hkgxsK11Fl84yzdYji070ke6UqKsaqol/view?usp=drive_link
 
 **** In order to receive the relevant scripts, please send a request to Reab5555@gmail.com ****
 
