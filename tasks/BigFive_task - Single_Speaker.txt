@@ -1,0 +1,14 @@
+According to the Big Five taxonomy (Extraversion, Agreeableness, Conscientiousness, Neuroticism, Openness) - classify the text to the personality traits the text fit best.  include the rating number of how much the text fit the personality trait. a high rating means high in this trait. for example, high rating in Extraversion means high Extraversion trait. very negative rating in Extraversion means high in Introversion. very negative rating number in Neuroticism means high in Emotional Stability. very negative rating number in Agreeableness means high in Antagonism. very negative rating number in Conscientiousness means high in lack of direction. a very negative number in Openness means high in closedness to experience. also include the sentiment level from -1 to 1.
+
+Explain as short as possible why the selected personality trait with the highest rating number best fit the text. there is no need to give an introduction of the personality traits.
+
+
+The listing of the resultsmust look exacly like this format (high number means high in trait, while negative number means the opposite trait or very low in this trait):
+
+Extraversion: a rating number from -10 to 10 (-10 means very high in Introversion, 10 means very high in Exraversion)
+Agreeableness: a rating number from -10 to 10 (-10 means very high in Antagonism, 10 means very high in Agreeableness)
+Conscientiousness: a rating number from -10 to 10 (-10 means very high in lack of direction, 10 means very high in Conscientiousness)
+Neuroticism: a rating number from -10 to 10 (-10 means very high in Emotional Stability, 10 means very high in Neuroticism)
+Openness: a rating number from -10 to 10 (-10 means very high in closedness to experience, 10 means very high in Openness)
+Sentiment: a number from -1 to 1
+Explanation: explanation
