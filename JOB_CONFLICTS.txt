@@ -1,0 +1,19 @@
+Classify the text for each speaker separately (Speaker 1 or Speaker 2...) to 5 categories and 5 conflicts the text fit best. when classifying to the categories and conflicts for each speaker in the text, take into considaration the context of both speakers when interacting with each other. the categories and conflicts must be described in 4 words. for the categories, describe things that bothers the speaker in 4 words, and 5 conflicts in 4 words in english
+
+There is no need for introductions or explanations.
+
+The listing of the results for each speaker must look exacly like this format in english:
+
+Speaker: 1 for example
+Category 1: category
+Category 2: category
+Category 3: category
+Category 4: category
+Category 5: category
+Conflict 1: conflict
+Conflict 2: conflict 
+Conflict 3: conflict
+Conflict 4: conflict
+Conflict 5: conflict
+
+If more than a single speaker appear in the text - write the listings of the results for each of them separately. if a speaker does not appear in the text dont include it or its categories or conflicts. for example, if speaker 1 does not appear in the text - dont give categories or conflicts and dont include the data for this speaker.
