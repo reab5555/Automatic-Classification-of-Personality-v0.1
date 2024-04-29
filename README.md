@@ -39,12 +39,12 @@ When it comes to validating the personality patterns it becomes more complex to 
 It is possible to analyze different types of inputs. The personality patterns analysis can be performed in three ways: one option is an analysis of scenes and dialogues of multiple speakers, a second option is analyzing media contents concentrated in a folder, and a third option is of analyzing a single video file. 
 
 <p align="left">
-  <img src="assets/Slide1.PNG" alt="Alt text for image1" width="700"/>
+  <img src="assets/Slide1.PNG" alt="Alt text for image1" width="500"/>
 </p>
 
 
 <p align="left">
-  <img src="assets/Slide2.PNG" alt="Alt text for image1" width="700"/>
+  <img src="assets/Slide2.PNG" alt="Alt text for image1" width="500"/>
 </p>
 
 ### Dialogue File:
