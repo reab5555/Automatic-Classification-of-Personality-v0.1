@@ -4,19 +4,48 @@
  
 # Automatic Classification of Personality
 The purpose of this work is the development of an automatic tool for measuring attachment styles, personality patterns and traits for forensic, intelligence gathering, marketing, and research purposes.
-
+   
 Pre-release Article: https://drive.google.com/file/d/1Wp6e4hdgtclTr-EdfWJk93wfvaYdq-BH/view?usp=sharing
-
+   
 ## Description
-The purpose of this work is the development of an automatic tool for measuring attachment styles and personality patterns, that is, according to attachment theory, Shedler-Westen Personality Taxonomy, and the Big Five traits. This work presents the development of an innovative automatic tool designed for the analysis of attachment styles, personality patterns and traits. Criticizing existing diagnostic methods for biases and inefficiencies, the study introduces a novel AI-based tool that employs natural language processing to perform remote, dynamic, and unbiased analysis of attachment and personality patterns.   
-* Some of the examples here demonstrate the tool's capability to accurately classify text into distinct attachment styles and personality patterns. This is evidenced by its successful application in analyzing dialogues where it identified correlations between characters attachment styles over time. The tool's effectiveness is further corroborated by a 100% accuracy rate in classifying sentences from established questionnaires into correct attachment styles, showcasing its potential to transform the understanding and assessment of psychological constructs in a more efficient and unbiased manner.
-      
-* Classifying the text into one of the four attachment styles for example is a process which mainly includes the use of the GPT language model. To begin the classification process, the model receives the transcribed text from the episode or series. The text is actually the dialogues that take place between the characters in the series where each sentence in the text belongs to a certain character and is marked as such in advance. Along with the dialogue, the model also receive Bartholomew's definitions of the four attachment styles as an input for example. After defining the input it reads the dialogues, paying close attention to what each character says, to the emotional context and the style of attachments that they express - all this based on the defined article.
+This work presents an innovative AI-based tool that can automatically analyze complex dialogues and speaker interactions to identify each person's attachment style and personality patterns. The tool utilizes natural language processing and language models like GPT with Prompt Engineering to perform this in-depth analysis.     
     
-### Validation:
-The model based on its understanding of the dialogues and  the attachment styles determines how well each attachment style fits the way each character speaks. It does this by calculating a probability score that ranges from 0 to 1 for each of the four attachment styles. A score of 1 means that the character's dialogues or text fully matches a certainat attachment style, while a score of 0 means that there is no match at all. All this he analyzes each segment separately and independently (The number of segments is predefined) – In the end, each character is assigned a specific attachment style based on their dialogues. This output (fetched to a data file) can then be visualized on a graph, showing the change in styles during the episode or series.    
+Key points:   
+   
+1) It can accurately classify the text of dialogues into different attachment styles (secure, anxious, avoidant, and fearful) and personality patterns for each speaker, based on established psychological theories.   
+   
+2) The tool analyzes the emotional context, language style, interpersonal dynamics, and content of the dialogues to determine the underlying attachment styles and personality traits being expressed by each participant.   
+   
+3) It has demonstrated high accuracy in classifying sample dialogue excerpts and character interactions into the correct attachment styles and personality patterns.   
     
-We would also like to validate the model to check that it works as expected. In this case we check if the model can correctly classify sentences into the correct attachment styles we use sentences or items from questionnaires (The ASQ and the RSQ for example). In total we have 68 sentences or items, each of which corresponds to one of the four attachment styles. Then we ask the model to classify these sentences or items. The model reads each sentence or item and indicates which attachment style it believes the sentence is best suited to. an item can be for example "My desire to merge completely sometimes scares people away" (Preoccupied). We will compare the classifications of the model with the actual classifications known from the questionnaire. We do this using the Confusion Matrix which is a table that helps us understand and evaluatethe performance of the classification model. If the classification capabilities of the model are good, it must classify most (or all) of the sentences or items correctly. In our case it correctly classified all 68 sentences (100%). 
+4) The tool provides an objective, efficient, and potentially unbiased way to assess complex psychological constructs like attachment and personality from natural conversations and speaker interactions.   
+    
+5) It can analyze lengthy, complex dialogues over time to track how attachment styles and personalities evolve through the interactions.   
+   
+In summary, this AI tool automates the analysis of rich dialogue data and speaker interactions to accurately identify each person's attachment style and personality patterns in an objective and unbiased manner, offering a transformative approach to understanding these psychological aspects.   
+
+## Technical Description
+The model analyzes the dialogues of each character and calculates a probability score from 0 to 1 for how well their speech matches each of the four attachment styles (secure, anxious, avoidant, etc.). A score of 1 means the character's dialogues perfectly fit that attachment style, while 0 means there is no match at all. The model performs this analysis separately for predefined segments of the dialogues. At the end, each character is assigned a specific attachment style based on their overall dialogue, using the calculated probability scores. The output shows how each character's assigned attachment style changes over the course of the dialogue segments or series episodes. This output data can be visualized on a graph to easily see the shifts in attachment styles as the interactions progress.   
+   
+In summary, the model calculates probability scores for how well each character's dialogues match the different attachment styles, analyzes this over segments, and ultimately assigns styles to characters while tracking changes over time that can be visualized.   
+   
+### Validation: 
+To validate the model's accuracy, we tested it on sentences/items from established attachment style questionnaires like the ASQ and RSQ.   
+
+We had a total of 68 sentences, each corresponding to one of the four attachment styles (secure, anxious, avoidant, etc.).   
+
+For each sentence, we asked the model to classify which attachment style that sentence best represented. For example: "My desire to merge completely sometimes scares people away" should be classified as the "preoccupied" attachment style.   
+
+we then compared the model's classifications to the actual correct classifications from the questionnaires.   
+
+To evaluate performance, we used a confusion matrix - a table that shows correct and incorrect classifications.   
+
+For good classification capabilities, the model should correctly classify most or all of the 68 sentences into their proper attachment styles.   
+
+In this case, the model achieved 100% accuracy by correctly classifying all 68 sentences into their correct attachment styles based on the questionnaire answers.   
+
+In summary, validating on standard questionnaire sentences showed the model could accurately classify attachment style statements with 100% accuracy compared to the expected classifications, demonstrating its high performance.   
+
 <p align="left">
   <img src="assets/itemscorr.png" alt="Alt text for image1" width="400"/>
 </p>
