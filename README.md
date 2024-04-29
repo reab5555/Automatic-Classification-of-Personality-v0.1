@@ -31,17 +31,11 @@ In summary, the model calculates probability scores for how well each character'
    
 ### Validation: 
 To validate the model's accuracy, we tested it on sentences/items from established attachment style questionnaires like the ASQ and RSQ.   
-
 We had a total of 68 sentences, each corresponding to one of the four attachment styles (secure, anxious, avoidant, etc.).   
-
 For each sentence, we asked the model to classify which attachment style that sentence best represented. For example: "My desire to merge completely sometimes scares people away" should be classified as the "preoccupied" attachment style.   
-
 we then compared the model's classifications to the actual correct classifications from the questionnaires.   
-
 To evaluate performance, we used a confusion matrix - a table that shows correct and incorrect classifications.   
-
 For good classification capabilities, the model should correctly classify most or all of the 68 sentences into their proper attachment styles.   
-
 In this case, the model achieved 100% accuracy by correctly classifying all 68 sentences into their correct attachment styles based on the questionnaire answers.   
 
 In summary, validating on standard questionnaire sentences showed the model could accurately classify attachment style statements with 100% accuracy compared to the expected classifications, demonstrating its high performance.   
@@ -84,8 +78,7 @@ It is possible to analyze different types of inputs. The personality patterns an
 5. After processing all parts of the dialog or text, the model produces a data set such as a CSV file that includes the probabilities for each attachment style for each part of the dialog or text. This data can then be visualized on a graph to examine changes in attachment styles over the film's timeline. This way we will get a dynamic description of the attachment styles of the characters during the film.
 
 ### Results: Scenes From A Marriage (Attachment Styles)
-After receiving a data file of the results for the series, we would like to make a comparison between time points or dialogue segments in the series between the main characters. We can also see this graphically, by calculating correlations between the speakers and their attachment style at time points in the film. Correlations (Pearson or Spearman) were calculated between all attachment styles separately for character number 1, and all other attachment styles of character number 2 at all time points in the series. For example, we consider a correlation between the probabilistic values of anxious attachment for character number 1, and the probabilistic values of avoidant attachment for character number 2. In other words, we would like to check whether as the probability value in the series of anxious attachment for character number 1 increases, the probability of avoidant attachment for character Number 2 also increases.
-Having run the algorithm on the whole series with 5 episodes, we now want to examine the results. we can see the graphs of each character separately in the attached image. The top graph belongs to Jonathan, while the bottom graph belongs to Mira. This graph shows a distribution of about 25 segments. The timecodes can be seen on the X-axis, with each segment of dialogue corresponding to a timecode. In each timecode there are probabilistic values of the call styles on the Y-axis. The highest values at a time point are highlighted with a thicker line. we can see that each color corresponds to an attachment style. The red markings describe the overlap in time points between the two characters and their attachment styles. It can be seen that when Jonathan expresses an avoidant attachment style, Mira expresses an anxious attachment style (green and orange colors). we can also see a response of an anxious attachment style on Jonathan's part, when Mira expresses a fearful-avoidant attachment style.
+We have a data file that displays results for a series with 5 episodes. We are analyzing the relationship between two main characters, Jonathan and Mira, focusing on their attachment styles during different dialogue segments. There are graphs that show the attachment styles distributed over approximately 25 segments. The top graph depicts Jonathan's attachment styles, and the bottom one shows Mira's. Each graph includes timecodes on the X-axis and the attachment styles on the Y-axis, with key values highlighted in a thicker line. Colors on the graphs correspond to different attachment styles. For example, when Jonathan exhibits an avoidant attachment style, Mira often shows an anxious style, and vice versa. This analysis helps us understand how each character's attachment style interacts over the course of the series.   
 
 <p align="left">
   <img src="assets/graph.png" alt="Alt text for image1" width="700"/>
