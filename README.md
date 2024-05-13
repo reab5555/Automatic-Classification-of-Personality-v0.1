@@ -29,7 +29,7 @@ The model analyzes the dialogues of each character and calculates a probability 
    
 In summary, the model calculates probability scores for how well each character's dialogues match the different attachment styles, analyzes this over segments, and ultimately assigns styles to characters while tracking changes over time that can be visualized.   
    
-### Validation: 
+## Validation: 
 To validate the model's accuracy, we tested it on sentences/items from established attachment style questionnaires like the ASQ and RSQ.   
 We had a total of 68 sentences, each corresponding to one of the four attachment styles (secure, anxious, avoidant, etc.).   
 For each sentence, we asked the model to classify which attachment style that sentence best represented. For example: "My desire to merge completely sometimes scares people away" should be classified as the "preoccupied" attachment style.   
@@ -70,14 +70,14 @@ It is possible to analyze different types of inputs. The personality patterns an
   <img src="assets/Slide2.PNG" alt="Alt text for image1" width="500"/>
 </p>
 
-### Dialogue File:
+## Dialogue File:
 1. We start with a video file or a movie from which we want to extract dialogues. Through a transcription process, we convert the auditory speech of the characters into text. This transcribed dialogue will serve as the primary input for our analysis. this is mainly done with AzureSpeech2SRT.py that can perform speaker diarization to recognize different speakers from audio.
 2. Then we insert the transcribed dialogue into the GPT model, alongside Bartholomew's definitions of attachment styles from the article - Attachment styles among young adults: A test of a four-category model (1991).
 3. The model calculates the probability of each piece or segment of dialogue or text for each of the four  attachment styles. The number of segments is predefined (less segments = analysis of more text per segment).
 4. We instruct the model to produce a specific output. In this case, for each piece of dialogue or text, we want the model to assign each speaker or character a probability (from 0 to 1) for each attachment style. A score of 1 means that the dialogue perfectly matches a particular attachment style, and 0 means that there is no match at all.
 5. After processing all parts of the dialog or text, the model produces a data set such as a CSV file that includes the probabilities for each attachment style for each part of the dialog or text. This data can then be visualized on a graph to examine changes in attachment styles over the film's timeline. This way we will get a dynamic description of the attachment styles of the characters during the film.
 
-### Results: Scenes From A Marriage (Attachment Styles)
+## Results: Scenes From A Marriage (Attachment Styles)
 We have a data file that displays results for a series with 5 episodes. We are analyzing the relationship between two main characters, Jonathan and Mira, focusing on their attachment styles during different dialogue segments. There are graphs that show the attachment styles distributed over approximately 25 segments. The top graph depicts Jonathan's attachment styles, and the bottom one shows Mira's. Each graph includes timecodes on the X-axis and the attachment styles on the Y-axis, with key values highlighted in a thicker line. Colors on the graphs correspond to different attachment styles. For example, when Jonathan exhibits an avoidant attachment style, Mira often shows an anxious style, and vice versa. This analysis helps us understand how each character's attachment style interacts over the course of the series.   
 
 <p align="left">
@@ -101,7 +101,7 @@ Using AI to extract descriptions (in a csv file format) for each image or video 
 3. Analyzing the descriptions:
 Getting results using AI with tailored knowledge for the text with the descriptions of all images and videos from the selected folder.
 
-### Video File:
+## Video File:
 If we want to analyze a single video file, when only one person appears and speaks in it, we will select this option. For example, when a person is interviewed and answers questions in a specific video clip. This algorithm is less "smart" compared to the one that analyzes scenes, in that it does not know how to separate speakers. In fact, it sees only one speaker before its eyes with one concentrated transcription. Therefore, it is not intended for analyzing videos that clearly contain more than one speaker. The algorithm relies on what the speaker in the video says, and extracts the results of his or her personality from a transcript it extracts from the audio of the video file. To make sure that only one speaker is actually heard in the video segment, it is recommended to edit it and remove speakers that are not relevant, and highlight only the speaker we want to analyze.
 
 How the algorithm works:
