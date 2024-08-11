@@ -4,9 +4,7 @@
  
 # Automatic Classification of Personality
 The purpose of this work is the development of an automatic tool for measuring attachment styles, personality patterns and traits for forensic, intelligence gathering, marketing, and research purposes.
-   
-Pre-release Article: https://drive.google.com/file/d/1Wp6e4hdgtclTr-EdfWJk93wfvaYdq-BH/view?usp=sharing
-   
+      
 ## Description
 This work presents an innovative AI-based tool that can automatically analyze complex dialogues and speaker interactions to identify each person's attachment style and personality patterns. The tool utilizes natural language processing and language models like GPT with Prompt Engineering to perform this in-depth analysis.     
     
