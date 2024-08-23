@@ -2,7 +2,7 @@
   <img src="assets/Psi2_w.png" alt="Alt text for image1" width="125"/>
 </p>
  
-# Automatic Classification of Personality
+# Automatic Classification of Personality (Deprecated)
 The purpose of this work is the development of an automatic tool for measuring attachment styles, personality patterns and traits for forensic, intelligence gathering, marketing, and research purposes.
       
 ## Description
